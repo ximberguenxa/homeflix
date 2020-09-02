@@ -1,1 +1,1 @@
-# homeflix, I`m trying to do all what i learn every day in this project
+# homeflix, I`m trying to do all what I learn every day in this project
