@@ -1,6 +1,8 @@
 
 .homeflix {
-    background-color:     rgb(2, 20, 20);
+    padding: 30px;
+    background-color: black;
+    margin: 0 0 0 0;
 }
 .imghome{
     border:solid 10px black;
@@ -9,8 +11,13 @@
 button{
     border-radius: 1%;
 }
-.square{
-    border:solid black;
+.signup{
+    text-align: center;
+    padding: 10px;
+    color: red;
+    background-color: black;
+    border-radius: 30px;
+    margin: 15px 25% 15px 25%;
 }
 .perfil{
     height: 10%;
@@ -21,4 +28,10 @@ button{
 }
 body{
     font-family: sans-serif;
+}
+.center{
+    text-align: center;
+}
+.signupc{
+    text-align: center;
 }
